@@ -1,2 +1,2 @@
 # hi this is commit ver
-print("hello python & git rock")
+print("hello python & git rock dev")
